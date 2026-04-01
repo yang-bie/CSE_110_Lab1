@@ -60,9 +60,9 @@ My GitHub is [yang-bie](https://github.com/yang-bie).
 
 ### Section Links
 
-Link to **About Me** section: [Link Text](#about-me)
+Link to **About Me** section: [**About Me**](#about-me)
 
-Link to **Programmer Profile** section: [LinkText](#programmer-profile)
+Link to **Programmer Profile** section: [**Programmer Profile**](#programmer-profile)
 
 ### Relative links
 
