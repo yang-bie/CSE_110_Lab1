@@ -1,5 +1,7 @@
 # Yang Bie's User Page
 
+![cat image](https://github.com/yang-bie/CSE_110_Lab1/blob/main/images/amber-kipp-75715CVEJhI-unsplash.jpg)
+
 ## About Me
 
 Hi, my name is **Yang Bie**. I am a Computer Science student who is interested in programming, problem solving, and learning how computer systems work.
