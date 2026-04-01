@@ -1,6 +1,6 @@
 # Yang Bie's User Page
 
-![cat image](https://github.com/yang-bie/CSE_110_Lab1/blob/main/images/amber-kipp-75715CVEJhI-unsplash.jpg)
+![cat image](images/amber-kipp-75715CVEJhI-unsplash.jpg)
 
 ## About Me
 
