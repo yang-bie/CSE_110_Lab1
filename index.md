@@ -55,6 +55,7 @@ int main() {
 ### External Links
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
 My GitHub is [yang-bie](https://github.com/yang-bie).
 
 ### Section Links
